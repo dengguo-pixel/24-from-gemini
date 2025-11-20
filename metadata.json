@@ -1,0 +1,5 @@
+{
+  "name": "24-from-gemini",
+  "description": "A classic math puzzle game where you must combine four numbers to reach 24. Features an AI assistant powered by Gemini to provide hints and solutions.",
+  "requestFramePermissions": []
+}
